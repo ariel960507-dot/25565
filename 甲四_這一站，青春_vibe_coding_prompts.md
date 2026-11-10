@@ -26,7 +26,8 @@
 
 1. **(1) Prompt 說明 Markdown 檔案（本檔案）：** [GitHub prompts.md 連結](https://github.com/your-username/railway-youth-film/blob/main/prompts.md)
 2. **(2) InfinityFree 自有免費網址首頁：** [https://haa.great-site.net/movie/hoh.html](http://your-infinityfree-site.epizy.com)
-3. **(3) Vercel 部署後的線上網址：** [https://railway-youth-film.vercel.app](https://railway-youth-film.vercel.app)
+3. **(3) Vercel 部署後的線上網址：** [https://12736.vercel.app/
+](https://railway-youth-film.vercel.app)
 
 ---
 © 2026 這一站，青春 影展專題企劃團隊
