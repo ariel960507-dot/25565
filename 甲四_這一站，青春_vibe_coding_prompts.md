@@ -24,7 +24,7 @@
 
 ## 二、 交付的三個指定連結
 
-1. **(1) Prompt 說明 Markdown 檔案（本檔案）：** [GitHub prompts.md 連結](https://github.com/your-username/railway-youth-film/blob/main/prompts.md)
+1. **(1) Prompt 說明 Markdown 檔案（本檔案）：** [https://github.com/ariel960507-dot/25565/blob/main/%E7%94%B2%E5%9B%9B_%E9%80%99%E4%B8%80%E7%AB%99%EF%BC%8C%E9%9D%92%E6%98%A5_vibe_coding_prompts.md](https://github.com/your-username/railway-youth-film/blob/main/prompts.md)
 2. **(2) InfinityFree 自有免費網址首頁：** [https://haa.great-site.net/movie/hoh.html](http://your-infinityfree-site.epizy.com)
 3. **(3) Vercel 部署後的線上網址：** [https://12736.vercel.app/
 ](https://railway-youth-film.vercel.app)
